@@ -19,6 +19,6 @@
     "require": {
         "guzzlehttp/guzzle": "^7.2",
         "guzzlehttp/psr7": "^1.7",
-        "guzzlehttp/promises": "^1.4"
+        "guzzlehttp/promises": "^1.3"
     }
 }
