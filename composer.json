@@ -1,12 +1,16 @@
 {
-    "name": "csharpru/vault-php-guzzle6-transport",
-    "description": "Guzzle6 transport for Vault PHP client",
+    "name": "oirad/vault-php-guzzle7-transport",
+    "description": "Guzzle7 transport for Vault PHP client",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Yaroslav Lukyanov",
             "email": "c_sharp@mail.ru"
+        },
+        {
+            "name": "Dario Martini",
+            "email": "https://github.com/oirad"
         }
     ],
     "autoload": {
